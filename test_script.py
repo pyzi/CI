@@ -7,8 +7,7 @@ class ForVideo(unittest.TestCase):
         print("some text")
     def tearDown(self):
         print("some text")
-    def test_ola(self):
-        self.assert 'ola', 'tudo'
+
     
 if __name__=="__main__":
     unittest.main()
